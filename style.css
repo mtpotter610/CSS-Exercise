@@ -1,0 +1,59 @@
+.body{
+	margin: 0%;
+}
+
+.wrapper{
+	width: 1200px;
+	margin: : 0% auto;
+}
+
+.orange{
+	width:1100px;
+	height:300px;
+	margin: 50 50 0 50;
+	background-color: orange;
+}
+
+.yellow{
+	width: 550px;
+	height: 250px;
+	margin: 25 20 25 0;
+	float:right;
+	background-color: yellow;
+}
+
+.blue{
+	height: 550px;
+	width:520px;
+	margin: 50 20 50 50;
+	display:inline-block;
+	background-color: blue;
+}
+
+ul{
+	width: 540px;
+	margin: 0 50 50 0;
+	padding: 0;
+	display: inline-block;
+	list-style: none;
+}
+
+li{
+	height: 150px;
+	width: 540px;
+	margin: 50 0 0 0;
+	background-color: purple;
+}
+
+.green{
+	height: 400px;
+	width:600px;
+	margin: 0 auto;
+	align-content: center;
+	background-color: green;
+}
+
+
+
+
+
